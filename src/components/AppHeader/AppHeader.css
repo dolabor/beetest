@@ -1,0 +1,16 @@
+.AppHeader span {
+    opacity: 0.6;
+}
+.AppHeader span:not(:last-child){
+    margin-right: 28px;
+}
+.AppHeader {
+    background-color: #2B2C3A;
+    color: #FFFFFF;
+    width: 300px;
+    height: 71px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
