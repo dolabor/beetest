@@ -1,12 +1,26 @@
-.App {
-  display: flex;
-  align-items: center;
-  background-color: #2B2C3A;
-  justify-content: space-between;
-  padding-right: 40px;
+.App_Header{
+    display: flex;
+    justify-content: space-between;
+    color: #FFFFFF;
+    border-bottom: 1px solid #D8D8D81A;
 }
-.App_RightPart{
-  display: flex;
-  align-items: center;
-  gap: 16px;
+.App_SideBarHeader{
+    background-color: #9CA5EC0A;
+    width: 280px;
+    padding-left: 30px;
+    height: 71px;
+    display: flex;
+    align-items: center;
+}
+.App_SideBarHeaderYear{
+    font-size: 11px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.App_SideBarHeaderBrand{
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 22px;
+    height: 22px;
 }

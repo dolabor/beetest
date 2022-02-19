@@ -1,0 +1,12 @@
+.AppContentHeader {
+  display: flex;
+  align-items: center;
+  background-color: #2B2C3A;
+  justify-content: space-between;
+  padding-right: 40px;
+}
+.AppContentHeader_RightPart{
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
