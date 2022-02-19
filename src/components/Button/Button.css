@@ -3,4 +3,8 @@
     padding-right: 12px;
     padding-left: 12px;
     border-radius: 4px;
+    color: #FFFFFF;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }

@@ -1,0 +1,37 @@
+.Card{
+    position: relative;
+    background-color: #FFFFFF0A;
+    width: 255px;
+    border-radius: 6px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.Card_Button{
+    position: absolute;
+    top: 16px;
+    left: 16px;
+}
+.CardHeader_Image {
+}
+.Card_Title {
+    height: 12px;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 8px 16px 16px 16px;
+
+}
+.Card_Content {
+    font-size: 14px;
+    color: #FFFFFF80;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.Card_Footer {
+    border-top: 1px solid #D8D8D81A;
+    color: #FFFFFF;
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
+}

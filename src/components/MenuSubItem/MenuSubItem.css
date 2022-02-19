@@ -5,7 +5,7 @@
     gap: 24px;
     display: flex;
 }
-.MenuSubItem__Selected{
+.MenuSubItem:hover {
     border-left: 3px solid #6F6EFF;
     color: #FFFFFF;
     background-color: #FFFFFF07;

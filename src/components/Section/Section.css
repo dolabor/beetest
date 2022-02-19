@@ -1,0 +1,20 @@
+.Section {
+    margin-bottom: 60px;
+}
+.Section_Subtitle{
+    color: #FFFFFF66;
+    font-size: 11px;
+}
+.Section_Title{
+    color: #FFFFFF;
+    font-size: 22px;
+}
+.Section_Header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+.Section_Content{
+    display: flex;
+    gap: 8px;
+}

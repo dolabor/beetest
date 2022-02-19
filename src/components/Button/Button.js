@@ -1,9 +1,9 @@
 import React from 'react';
 import './Button.css'
 
-function Button({children}) {
+function Button({children, height=24}) {
     return (
-        <span className={'Button'}>{children}</span>
+        <div className={'Button'} style={{height: `${height}px`}}>{children}</div>
     );
 }
 
