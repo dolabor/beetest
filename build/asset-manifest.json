@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe2c3be8.css",
+    "main.js": "/static/js/main.b2a9ac14.js",
+    "static/js/787.9676b3d2.chunk.js": "/static/js/787.9676b3d2.chunk.js",
+    "static/media/CubeIcon.svg": "/static/media/CubeIcon.7df185bad6403833ab90e9b87facfa40.svg",
+    "static/media/Beeline_2021.svg": "/static/media/Beeline_2021.60f584fe838d6d49de5f230ea44a76dd.svg",
+    "static/media/SwordIcon.svg": "/static/media/SwordIcon.a37882ceffca1eb4e243d7d6df6f3fe8.svg",
+    "static/media/PuzzleIcon.svg": "/static/media/PuzzleIcon.5fcde6ae8cf999164d969be4670282e5.svg",
+    "static/media/BallIcon.svg": "/static/media/BallIcon.33d45c2864ab5acf2bfb4a6ffd47f44b.svg",
+    "static/media/Shape.svg": "/static/media/Shape.3ae7d1ce3dd72ef53113ddc42a8bd535.svg",
+    "static/media/ChessIcon.svg": "/static/media/ChessIcon.45b943b809975e2e26e433a57df84fef.svg",
+    "index.html": "/index.html",
+    "static/media/icon-1.svg": "/static/media/icon-1.1120bc7afd154c98aaf2ef143616026a.svg",
+    "static/media/ArrowIcon.svg": "/static/media/ArrowIcon.81adef66af70e3a3366288f0d49170e9.svg",
+    "static/media/Oval.svg": "/static/media/Oval.355895ab865d730ff2a37574e07bbcbf.svg",
+    "main.fe2c3be8.css.map": "/static/css/main.fe2c3be8.css.map",
+    "main.b2a9ac14.js.map": "/static/js/main.b2a9ac14.js.map",
+    "787.9676b3d2.chunk.js.map": "/static/js/787.9676b3d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2c3be8.css",
+    "static/js/main.b2a9ac14.js"
+  ]
+}
