@@ -1,0 +1,9 @@
+.AppHeaderProfile {
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.AppHeaderProfile_Status {
+    color: #24CB8D;
+}

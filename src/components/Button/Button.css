@@ -1,0 +1,6 @@
+.Button {
+    background: linear-gradient(90deg, #6B69F9 0%, #6F6EFF 100%);
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 4px;
+}

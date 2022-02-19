@@ -3,5 +3,10 @@
   align-items: center;
   background-color: #2B2C3A;
   justify-content: space-between;
+  padding-right: 40px;
 }
-
+.App_RightPart{
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
