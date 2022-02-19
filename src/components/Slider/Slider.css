@@ -1,0 +1,19 @@
+.Slider{
+    width: 42px;
+    height: 22px;
+    border: 1px solid #FFFFFF33;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    padding-left: 3px;
+    padding-right: 3px;
+    flex-direction: row-reverse;
+}
+.Slider_Circle{
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: #6F6EFF;
+
+
+}

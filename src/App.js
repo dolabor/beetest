@@ -2,6 +2,8 @@ import React from 'react';
 import AppContentHeader from "./components/AppContentHeader/AppContentHeader";
 import {ReactComponent as BeelineIcon} from "./icons/Beeline_2021.svg";
 import './App.css';
+import SideBar from "./components/SideBar/SideBar";
+import Content from "./components/Content/Content";
 
 function App() {
     return (
@@ -14,6 +16,10 @@ function App() {
                     </div>
                 </div>
                 <AppContentHeader/>
+            </div>
+            <div className={'App_Content'}>
+                <SideBar/>
+                <Content/>
             </div>
         </div>
     );

@@ -1,0 +1,16 @@
+.SideBar{
+    width: 280px;
+    height: calc(100vh - 72px);
+    padding-top: 16px;
+    background-color: #9CA5EC0A;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.SideBar_FooterContent{
+    display: flex;
+    justify-content: space-between;
+    color: #FFFFFF80;
+
+}

@@ -1,0 +1,13 @@
+.MenuSubItem{
+    color: #FFFFFF80;
+    font-size: 14px;
+    padding: 12px 0 12px 48px;
+    gap: 24px;
+    display: flex;
+}
+.MenuSubItem__Selected{
+    border-left: 3px solid #6F6EFF;
+    color: #FFFFFF;
+    background-color: #FFFFFF07;
+
+}
