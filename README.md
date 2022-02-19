@@ -1,4 +1,7 @@
 # Решение тестового задания для BEINTERNS 2022
+Решение развернуто по ссылке:
+https://dolabor.github.io/beetest/
+
 Запустить development-сервер можно по команде: 
 ```
 npm start 
