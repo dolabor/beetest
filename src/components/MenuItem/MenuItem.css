@@ -3,4 +3,11 @@
     font-size: 14px;
     letter-spacing: 1px;
     padding: 12px 30px 12px 30px;
+    position: relative;
+}
+.MenuItem_CollapseIcon {
+    position: absolute;
+    right: 30px;
+    top: 19px;
+
 }

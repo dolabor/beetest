@@ -14,9 +14,9 @@ function SideBar(props) {
     return (
         <div className={'SideBar'}>
             <div>
-                <MenuItem>ПРОГРАММА</MenuItem>
+                <MenuItem isCollapsible>ПРОГРАММА</MenuItem>
                 <MenuItem>МЕНТОРЫ</MenuItem>
-                <MenuItem>ЛЕКЦИЯ</MenuItem>
+                <MenuItem isCollapsible>ЛЕКЦИЯ</MenuItem>
                 <MenuSubItem isSelected>
                     <SwordIcon/>
                     HTML/CSS
